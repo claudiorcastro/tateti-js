@@ -59,6 +59,7 @@ body{
     flex-direction: column;
     height: 420px;
     width: 100px;
+    gap: 10px;
     margin: 0 40px;
     cursor: grab;
 }
